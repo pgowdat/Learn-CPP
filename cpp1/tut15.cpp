@@ -16,11 +16,11 @@ using namespace std;
 
 
 // here x & y copied to c & d, changing c & d doesnt change the value of x & y
-void swap(int c,int d){
-    int temp=c;
-    c=d;
-    d=temp;
-}
+// void swap(int c,int d){
+//     int temp=c;
+//     c=d;
+//     d=temp;
+// }
 
 
 // void swapPointer(int* c,int* d){
